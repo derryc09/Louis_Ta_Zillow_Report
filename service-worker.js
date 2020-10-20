@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Louis_Ta_Zillow_Report/precache-manifest.f71ac9ab55f00a4315548a957196787b.js"
+  "/Louis_Ta_Zillow_Report/precache-manifest.c29cc3838f09e7d8ab54944b857545b3.js"
 );
 
 self.addEventListener('message', (event) => {
